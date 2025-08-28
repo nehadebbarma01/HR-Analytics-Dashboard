@@ -17,7 +17,7 @@ This project is an **interactive HR Analytics dashboard** built using **Power BI
 
 ## Dashboard Preview
 <!-- Replace with your screenshot -->
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](/HRAnalyticsFinally.png)
 
 ## Project Outcome
 - Identifies high attrition areas across departments.
@@ -26,5 +26,5 @@ This project is an **interactive HR Analytics dashboard** built using **Power BI
 
 ## Project Link
 <!-- Replace with your GitHub or live project link -->
-[View Project](https://github.com/yourusername/your-repo)
+[View Project](https://github.com/nehadebbarma01/HR-Analytics-Dashboard)
 
